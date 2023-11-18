@@ -28,6 +28,7 @@ namespace Tyuiu.VorobevSA.Sprint5.Task3.V30
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
 
+
             int x = 3;
             Console.WriteLine("x=" + x);
             
